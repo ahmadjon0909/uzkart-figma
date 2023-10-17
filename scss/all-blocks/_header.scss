@@ -1,0 +1,55 @@
+.hero {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 19px;
+    background: #FFF;
+    box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.15);
+
+    .acin {
+        display: flex;
+        align-items: center;
+        gap: 0 22px;
+    }
+}
+
+.acin_1 {
+    display: flex;
+    align-items: center;
+    gap: 0 30px;
+}
+
+.vla a {
+    color: #222;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.vla_1 a {
+    color: #222;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.text_btn {
+    border: none;
+    color: #222;
+    text-align: center;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 121px;
+    height: 40px;
+    flex-shrink: 0;
+    border-radius: 40px;
+    border: 1px solid #000;
+    background: #FFF;
+}
+
+
+
